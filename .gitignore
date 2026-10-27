@@ -1,0 +1,15 @@
+# build output
+build/
+*.exe
+*.obj
+*.lib
+*.res
+*.zip
+# test harness screenshots
+*.ppm
+pkg/
+
+# created when the app runs from the repo folder
+desktop/
+settings.ini
+emulator/

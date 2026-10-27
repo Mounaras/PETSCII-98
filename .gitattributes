@@ -1,0 +1,6 @@
+*.BAS text eol=crlf
+*.bas text eol=crlf
+*.bat text eol=crlf
+*.sh  text eol=lf
+*.ico binary
+*.png binary
