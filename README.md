@@ -5,7 +5,7 @@ desktop for Windows: a C64-style boot, a late-90s windowed GUI, a working
 Commodore-style BASIC and a game maker, all in one **~80 KB .exe** with no emulator,
 no VM and no runtime.
 
-![Commodore 98 desktop](docs/desktop.png)
+
 
 ## Features
 
@@ -28,11 +28,11 @@ no VM and no runtime.
   `DIM` arrays, `SCRN`, `PEEK`/`POKE` screen memory, `ON..GOTO`. Includes DODGE, a complete game
 - **Program library:** `cassettes/` and `floppies/` folders next to the exe
 
-![Game Maker running DODGE](docs/gamemaker.png)
 
-![Game Maker editor with the DODGE example](docs/editor.png)
 
-![BASIC listing the floppies folder](docs/basic.png)
+
+
+
 
 ## Download
 
